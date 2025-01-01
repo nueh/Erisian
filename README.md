@@ -13,8 +13,10 @@ Erisian is a macOS menubar app that displays the current date according to the D
    ```sh
    git clone https://github.com/nueh/Erisian.git
    ```
-2. Open the project in [PureBasic]()
+2. Open the project in [PureBasic](https://www.purebasic.com/).
 3. Compile and run the project.
+
+or download a [binary]() (x86).
 
 ## Usage
 
@@ -27,4 +29,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the GPL License
