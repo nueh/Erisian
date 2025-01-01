@@ -16,7 +16,7 @@ Erisian is a macOS menubar app that displays the current date according to the D
 2. Open the project in [PureBasic](https://www.purebasic.com/).
 3. Compile and run the project.
 
-or download a [binary]() (x86).
+or download a [binary](https://github.com/nueh/Erisian/blob/main/Erisian.app.zip) (x86, ~300 KB).
 
 ## Usage
 
